@@ -1,6 +1,6 @@
 # Notification-Prioritization-Engine
 
-#Problem Summary
+Problem Summary
 
 Users receive a high volume of notifications from multiple services such as alerts, reminders, promotions, and system events. Many notifications are repetitive, poorly timed, or low-value, leading to alert fatigue and missed critical messages.
 
