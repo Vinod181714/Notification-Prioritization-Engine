@@ -1,0 +1,4 @@
+DECISION_THRESHOLDS = {
+    "NOW": 7.0,
+    "LATER": 4.0
+}
